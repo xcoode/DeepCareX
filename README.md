@@ -642,12 +642,12 @@ Build the project from source: (On a local System)
 
 1. Clone the DeepCareX.git repository:
 ```sh
-❯ git clone --recurse-submodules -j8 https://github.com/sumony2j/DeepCareX.git
+❯ git clone --recurse-submodules -j8 https://github.com/xcoode/DeepCareX.git
 ```
 
 2. Navigate to the project directory:
 ```sh
-❯ cd DeepCareX.git
+❯ cd DeepCareX
 ```
 
 3. Install the required dependencies: (**Follow for more details : requirment.txt**)
@@ -670,7 +670,7 @@ Ensure you have Docker installed. You can download and install Docker from [here
 1. Clone the repository:
 
    ```bash
-   git clone --recurse-submodules -j8 https://github.com/sumony2j/DeepCareX.git
+   git clone --recurse-submodules -j8 https://github.com/xcoode/DeepCareX.git
    ```
 2. Navigate to the project directory:
 
@@ -715,9 +715,9 @@ Ensure you have Docker installed. You can download and install Docker from [here
 
 Contributions are welcome! Here are several ways you can contribute:
 
-- **[Report Issues](https://github.com/sumony2j/DeepCareX.git/issues)**: Submit bugs found or log feature requests for the `DeepCareX.git` project.
-- **[Submit Pull Requests](https://github.com/sumony2j/DeepCareX.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/sumony2j/DeepCareX.git/discussions)**: Share your insights, provide feedback, or ask questions.
+- **[Report Issues](https://github.com/xcoode/DeepCareX.git/issues)**: Submit bugs found or log feature requests for the `DeepCareX.git` project.
+- **[Submit Pull Requests](https://github.com/xcoode/DeepCareX.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **[Join the Discussions](https://github.com/xcoode/DeepCareX.git/discussions)**: Share your insights, provide feedback, or ask questions.
 
 <details closed>
    
@@ -726,7 +726,7 @@ Contributions are welcome! Here are several ways you can contribute:
 1. **Fork the Repository**: Start by forking the project repository to your github account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone https://github.com/sumony2j/DeepCareX.git
+   git clone https://github.com/xcoode/DeepCareX.git
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
